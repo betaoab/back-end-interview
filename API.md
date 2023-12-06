@@ -6,7 +6,7 @@
 For this exercise, we will be building a social link aggregator. At its core, it will be a place where users can submit internet links (URLs), 
 and upvote/downvote ("Thumb up"/"Thumb down") each other's Links. The difference between **Upvotes** and **Downvotes**, for each **Link**, is their **Score**. 
 
-A Link is an URL associated with scoring data. A proposal has been made to represent the resource Link:
+A Link is an URL associated with scoring data. A proposal has been made to represent a Link:
 
 ### The Link Object
 ```json
