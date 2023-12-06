@@ -35,7 +35,7 @@ Our API will allow clients:
 
 
 ## Goals
-- Bootstrap a new Django 4.x application using the django-admin CLI tool and the [startproject](https://docs.djangoproject.com/en/4.0/ref/django-admin/#startproject) command. Keep the default database set up by django-admin, SQLite.
+- Bootstrap a new Django 5.x application using the django-admin CLI tool and the [startproject](https://docs.djangoproject.com/en/5.0/ref/django-admin/#startproject) command. Keep the default database set up by django-admin, SQLite.
 - Create all the necessary models to support the above requirements
 - Write the necessary API endpoints, serializers and routes to support the above requirements, using Django Rest Framework
 - Bonus: Write some API tests to check if your endpoints are behaving properly
